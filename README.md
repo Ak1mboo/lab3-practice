@@ -1,2 +1,2 @@
 # lab3-practice
-# parcticing edits on new repository
+# practicing edits on new repository
